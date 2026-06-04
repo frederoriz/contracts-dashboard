@@ -19,4 +19,16 @@ export const contracts: Contract[] = [
     valor: 12000,
     status: "ativo",
   },
+  {
+    id: 4,
+    cliente: "Empresa Tau",
+    valor: 1300,
+    status: "ativo",
+  },
+  {
+    id: 5,
+    cliente: "Empresa Epsilon",
+    valor: 2500,
+    status: "ativo",
+  },
 ];

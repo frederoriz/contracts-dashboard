@@ -9,7 +9,7 @@ export default function ContractCard({
 }: ContractCardProps) {
   return (
     <div>
-      <h2>{contract.cliente}</h2>
+      <h2>{contract.id} - {contract.cliente}</h2>
 
       <p>Valor: R$ {contract.valor}</p>
 
